@@ -1,0 +1,11 @@
+body{
+    background: url('https://klequex.com/images/cb/wood.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    background-clip: padding-box;
+}
+.header-title{
+    color: black;
+    
+}
